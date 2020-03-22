@@ -25,7 +25,7 @@ Based on the longitude and latitude of the user, show the name and address of th
 "Name: Service surveillance voie publique (ASVP); Address: 8 Avenue Louis Blanc"
 
 ## Task clarifications:
-The distance should be calculated using [Harvesine Formula](http://www.movable-type.co.uk/scripts/latlong.html)
+The distance should be calculated using [Harvesine Formula](http://www.movable-type.co.uk/scripts/latlong.html)  
 ![x=(longitudeB-longitudeA)\times cos(\frac{latitudeA+latitudeB}{2})](https://render.githubusercontent.com/render/math?math=x%3D(longitudeB-longitudeA)%5Ctimes%20cos(%5Cfrac%7BlatitudeA%2BlatitudeB%7D%7B2%7D))  
 ![y=(latitudeB-latitudeA)](https://render.githubusercontent.com/render/math?math=y%3D(latitudeB-latitudeA))  
 ![d=\sqrt{x^2+y^2}\times 6371](https://render.githubusercontent.com/render/math?math=d%3D%5Csqrt%7Bx%5E2%2By%5E2%7D%5Ctimes%206371)  
@@ -46,4 +46,4 @@ Don't round any intermediate results.
 Numbers, if needed, should be rounded by Math.Truncate().  
 
 ## Credits:
-Original idea of the task was taken from CodinGames - [https://www.codingame.com/ide/puzzle/defibrillators](link)     
+Original idea of the task was taken from CodinGames - [link](https://www.codingame.com/ide/puzzle/defibrillators)     
