@@ -1,7 +1,7 @@
 # Task 3
 
 ## Prerequisites:
-Read Chapter 6 of .NET Book Zero
+Read Chapter 6 of .NET Book Zero and [How to parse strings using String.Split](https://docs.microsoft.com/en-us/dotnet/csharp/how-to/parse-strings-using-split)
 
 ## Description:
 The city of Montpellier has equipped its streets with defibrillators to help save victims of cardiac arrests. 
